@@ -1,0 +1,35 @@
+mode = "light"
+
+# Bone panels, printed graphite, phosphor controls, and restrained amber.
+accent = "#3F7652"
+selection = "#D6E2D7"
+muted = "#606B65"
+
+background = "#EEEDE4"
+dark_background = "#E2E1D7"
+darker_background = "#D5D5CA"
+lighter_background = "#E1E7DC"
+
+foreground = "#232B27"
+dark_foreground = "#606B65"
+light_foreground = "#46534C"
+bright_foreground = "#121815"
+
+red = "#A94740"
+yellow = "#80620D"
+orange = "#9A5D12"
+green = "#3F7652"
+cyan = "#38756E"
+blue = "#426B7A"
+magenta = "#79556D"
+brown = "#6F5744"
+
+bright_red = "#913630"
+bright_yellow = "#6D5100"
+bright_green = "#306442"
+bright_cyan = "#28645D"
+bright_blue = "#315A69"
+bright_magenta = "#67445B"
+
+selection_background = "#D6E2D7"
+selection_foreground = "#121815"
